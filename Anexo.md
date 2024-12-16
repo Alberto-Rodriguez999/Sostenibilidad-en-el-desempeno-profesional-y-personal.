@@ -29,6 +29,7 @@
 
 # *Conclusiones*
 
+### A lo largo de este documento hemos entendido la importancia de tener en cuenta la sostenibilidad en nuestro entorno laboral y personal. Como conlusión podemos decir que la sostenibilidad es un elemento clave en nuestras vidad, y los ODS nos retan a intentar merjorar nuestra relacion con el medio ambiente. Nos hemos dado cuenta de que cada accion del día a día, por pequeña que sea, puede mejorar en gran medida nuestro entorno.
 
 # *Referencias*
 ESTRUCTURA(hay que borrarlo): [NOMBREDELAWEB](ENLACEDELAWEB)
